@@ -14,11 +14,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 2. Suddenly, a ferocious dragon appeared! But as it breathed fire, a hatch opened on its chest revealing a confused knight operating levers inside. It was a giant mecha-dragon!
    ![dragon](dragon.png)
-   Then Three heroes a scientist, a mage, and a swordsman stepped up to fight it. After an intense battle of flying magic and sword slices, the dragon backed away in tears. "Why are you bullying me man? I just came here to buy bread!" it cried, flying away into the distance.
+   Then Three heroes a scientist, a mage, and a swordsman stepped up to fight it. After an intense battle of flying magic and sword slices, the dragon backed away in tears. "Why are you bullying me man? I just came here to buy bread!" it cried, flying away into the distance. but drop some weird robot part.
 
 3. A frantic scientist running tests nearby shouted, "Whatever you do, don't press the red self-destruct button!" ...but unfortunately, nobody wrote that down.
    ![scientist](scientist.png)
-   Naturally, the knight pressed the red button. KABOOM!
+   Naturally, the knight pressed the red button. KABOOM! then 
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
