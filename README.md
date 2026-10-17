@@ -26,15 +26,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 3. A frantic scientist running tests nearby shouted, "Whatever you do, don't press the red self-destruct button!" ...but unfortunately, nobody wrote that down.
    ![scientist](img/scientist.png)
-<<<<<<< HEAD
-   Naturally, the knight pressed the red button. KABOOM! then 
-
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-=======
    Naturally, the knight stared at the big red button, muttered "Ooh, shiny!", and pressed it anyway. KABOOM! 💥
 
 4. After that explosion, everyone got lost (or maybe teleported?), and somehow ended up right next to a mysterious **treasure chest**… 
->>>>>>> 8fc9bd4ec903a2d0b6ad1f21d3161de6a7d28c7e
    ![treasure chest](img/treasure_large.png)
 
 5. The knight followed the map into a dark forest. ![knight](/img/knight.png)
@@ -46,7 +40,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 The knight challenged him to a duel ![knight](/img/knight.png), but the pirate slipped on a banana peel before the fight even began.
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. The massive self-destruct explosion accidentally launched everyone directly into the atmosphere like a rocket! But right at that chaotic moment, their stolen **time machine** malfunctioned and started smoking. 
 
 8. Just when everyone thought they were doomed, a cat appeared inside the rocket.![cat](/img/cat.png)
  Everyone was confused because nobody had invited it.
