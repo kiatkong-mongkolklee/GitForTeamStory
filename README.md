@@ -13,7 +13,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Suddenly, a ferocious dragon appeared! But as it breathed fire, a hatch opened on its chest revealing a confused knight operating levers inside. It was a giant mecha-dragon!
    ![dragon](dragon.png)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. A frantic scientist running tests nearby shouted, "Whatever you do, don't press the red self-destruct button!" ...but unfortunately, nobody wrote that down.
+   ![scientist](scientist.png)
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
@@ -30,7 +31,10 @@ The knight challenged him to a duel [knight](/img/knight.png), but the pirate sl
 
 8. The cat was supposed to talk here, but the line is missing.  
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. The rocket landed in a mysterious forest, [rocket](/img/rocket.png)
+where the team met a friendly ghost guarding a treasure chest. [ghost](/img/ghost.png)
+An enormous ogre appeared and demanded half of the treasure as a landing fee. [orge](/img/ogre.png)
+The detective solved the problem by offering the ogre a sandwich instead.[detective](/img/detective.png) 
+The ogre accepted immediately because he had skipped breakfast.
 
 10. The ending… well, we don’t really have one. Please fix this.
