@@ -41,14 +41,14 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 The knight challenged him to a duel ![knight](img/knight.png), but the pirate slipped on a banana peel and knocked himself out before the fight even began.
 
-7. The massive self-destruct explosion accidentally launched everyone into the sky like a rocket! Everyone screamed as they flew through the air. [rocket](/img/rocket.png)At the same time, their stolen time machine malfunctioned and started smoking. Suddenly, a bright flash of light appeared, and everyone was transported to a mysterious place!. 
+7. A rocket blasted off, but at the exact same time, the **time machine** broke down completely.
 
-8. Just when everyone thought they were doomed, a cat appeared inside the rocket.![cat](/img/cat.png)
- Everyone was confused because nobody had invited it.
+8. Just when everyone thought they were doomed, a cat appeared inside the rocket.![cat in rocket](img/cat.png)
+ Everyone was extremely confused because nobody had invited it.
 
-The cat pressed a mysterious button with its paw, and the rocket suddenly started working again.![rocket](/img/rocket.png)
+The cat pressed a mysterious button with its paw, and the rocket engine suddenly started working perfectly again![rocket](img/rocket.png)
 
-"Meow," said the cat. Apparently, it was the smartest member of the team all along.![cat](/img/cat.png)
+*"Meow,"* said the cat. Apparently, it was the smartest member of the team all along.![cat](img/cat.png)
 
 9. The rocket landed in a mysterious forest, ![rocket](/img/rocket.png)
 where the team met a friendly ghost guarding a treasure chest. ![ghost](/img/ghost.png)
