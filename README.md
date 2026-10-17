@@ -1,7 +1,7 @@
 # Team Story Challenge
 **EDITOR**
 6909617364 kiatkong mongkolklee (kiatkong.mon@dome.tu.ac.th)
-
+6909617497 patchanon suwanlertcharoen (patchanon.suw@dome.tu.ac.th)
 
 This is the starting draft of your team’s story.  
 Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
