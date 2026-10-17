@@ -1,4 +1,8 @@
 # Team Story Challenge
+**EDITOR**
+6909617364 kiatkong mongkolklee (kiatkong.mon@dome.tu.ac.th)
+6909617497 patchanon suwanlertcharoen (patchanon.suw@dome.tu.ac.th)
+6909617422 nawat thumphon (nawat.thu@dome.tu.ac.th)
 
 This is the starting draft of your team’s story.  
 Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
@@ -14,17 +18,20 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 2. Suddenly, a ferocious dragon appeared! But as it breathed fire, a hatch opened on its chest revealing a confused knight operating levers inside. It was a giant mecha-dragon!
    ![dragon](dragon.png)
-   Then Three heroes a scientist, a mage, and a swordsman stepped up to fight it. After an intense battle of flying magic and sword slices, the dragon backed away in tears. "Why are you bullying me man? I just came here to buy bread!" it cried, flying away into the distance.
+   Then Three heroes a scientist, a mage, and a swordsman stepped up to fight it. After an intense battle of flying magic and sword slices, the dragon backed away in tears. "Why are you bullying me man? I just came here to buy bread!" it cried, flying away into the distance. but drop some weird robot part.
+   ![wizard](wizard.png)
+   ![knight](knight.png)
 
 3. A frantic scientist running tests nearby shouted, "Whatever you do, don't press the red self-destruct button!" ...but unfortunately, nobody wrote that down.
    ![scientist](scientist.png)
-   Naturally, the knight pressed the red button. KABOOM!
+   Naturally, the knight pressed the red button. KABOOM! then 
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. The knight followed the map into a dark forest. [knight](/img/knight.png)
+ The map had a big X, [map](/img/map.png)
+ a strange path, and absolutely no explanation. Luckily, a detective appeared and offered to help solve the mystery. [detective](/img/detective.png)  
 
 6. Suddenly, a pirate jumped out from behind a tree. "Hand over that map!" he shouted. [pirate](/img/pirate.png)[map](/img/map.png) 
  He wanted the treasure so badly that he had forgotten how to read a map.
@@ -47,4 +54,4 @@ The detective solved the problem by offering the ogre a sandwich instead.[detect
 The ogre accepted immediately because he had skipped breakfast.
 
 10. The Ending: An alien popped out from behind a tree, handed them a spare battery, and everyone took the rocket to a space diner for pizza. The end!
-   ![alien](alien.png)  
+   ![alien](alien.png)
