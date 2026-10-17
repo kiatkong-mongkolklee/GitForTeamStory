@@ -32,14 +32,14 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that explosion, everyone got lost (or maybe teleported?), and somehow ended up right next to a mysterious **treasure chest**… 
    ![treasure chest](img/treasure_large.png)
 
-5. The knight followed the map into a dark forest. ![knight](/img/knight.png)
- The map had a big X, ![map](/img/map.png)
- a strange path, and absolutely no explanation. Luckily, a detective appeared and offered to help solve the mystery. ![detective](/img/detective.png)  
+5. The knight followed the map into a dark forest. ![knight](img/knight.png)
+ The map had a big red **X**, a strange path, and absolutely no explanation. ![map](img/map.png)
+ Luckily, a detective appeared from the shadows and offered to help solve the mystery. ![detective](img/detective.png)  
 
-6. Suddenly, a pirate jumped out from behind a tree. "Hand over that map!" he shouted. ![pirate](/img/pirate.png)[map](/img/map.png) 
- He wanted the treasure so badly that he had forgotten how to read a map.
+6. Suddenly, a pirate jumped out from behind a tree! *"Hand over that map!"* he shouted passionately. ![pirate](img/pirate.png)[map](img/map.png) 
+ He wanted the treasure so badly that he had completely forgotten how to read a map.
 
-The knight challenged him to a duel ![knight](/img/knight.png), but the pirate slipped on a banana peel before the fight even began.
+The knight challenged him to a duel ![knight](img/knight.png), but the pirate slipped on a banana peel and knocked himself out before the fight even began.
 
 7. The massive self-destruct explosion accidentally launched everyone into the sky like a rocket! Everyone screamed as they flew through the air. At the same time, their stolen time machine malfunctioned and started smoking. Suddenly, a bright flash of light appeared, and everyone was transported to a mysterious place! 
 
