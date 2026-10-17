@@ -23,11 +23,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    ![knight](img/knight.png)
 
 3. A frantic scientist running tests nearby shouted, "Whatever you do, don't press the red self-destruct button!" ...but unfortunately, nobody wrote that down.
-   ![scientist](scientist.png)
-   Naturally, the knight pressed the red button. KABOOM! then 
+   ![scientist](img/scientist.png)
+   Naturally, the knight stared at the big red button, muttered "Ooh, shiny!", and pressed it anyway. KABOOM! 💥
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+4. After that explosion, everyone got lost (or maybe teleported?), and somehow ended up right next to a mysterious **treasure chest**… 
+   ![treasure chest](img/treasure_large.png)
 
 5. The knight followed the map into a dark forest. [knight](/img/knight.png)
  The map had a big X, [map](/img/map.png)
