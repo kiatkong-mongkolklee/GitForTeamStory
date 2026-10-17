@@ -4,7 +4,7 @@
 6909617497 patchanon suwanlertcharoen (patchanon.suw@dome.tu.ac.th)
 6909617422 nawat thumphon (nawat.thu@dome.tu.ac.th)
 6909546043 Natthawat Kiatkajonsakun (natthawat.kia@dome.tu.ac.th)
-s6909546027 Jittiput Phokhootsri (jitti.put@dome.tu.ac.th)
+6909546027 Jittiput Phokhootsri (jitti.put@dome.tu.ac.th)
 
 This is the starting draft of your team’s story.  
 Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
