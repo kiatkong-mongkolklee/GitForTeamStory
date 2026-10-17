@@ -21,7 +21,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. Suddenly, a pirate jumped out from behind a tree. "Hand over that map!" he shouted. He wanted the treasure so badly that he had forgotten how to read a map.[pirate](/img/pirate.png)[map](/img/map.png)
+
+The knight challenged him to a duel, but the pirate slipped on a banana peel before the fight even began.
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
