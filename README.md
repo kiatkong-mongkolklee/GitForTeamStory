@@ -50,10 +50,10 @@ The cat pressed a mysterious button with its paw, and the rocket engine suddenly
 
 *"Meow,"* said the cat. Apparently, it was the smartest member of the team all along.![cat](img/cat.png)
 
-9. The rocket landed in a mysterious forest, ![rocket](/img/rocket.png)
-where the team met a friendly ghost guarding a treasure chest. ![ghost](/img/ghost.png)
-An enormous ogre appeared and demanded half of the treasure as a landing fee. ![orge](/img/ogre.png)
-The detective solved the problem by offering the ogre a sandwich instead.![detective](/img/detective.png) 
-The ogre accepted immediately because he had skipped breakfast.
+9. The rocket landed in a mysterious forest, ![rocket landing](img/rocket.png)
+where the team met a friendly ghost guarding a treasure chest. ![ghost](img/ghost.png)
+An enormous ogre appeared and demanded half of the treasure as a landing fee. ![orge](img/ogre.png)
+The detective solved the problem by offering the ogre a sandwich instead.![detective](img/detective.png) 
+The ogre accepted immediately because he had skipped breakfast and was dangerously hangry.
 
-10. The Ending: A green alien popped out from behind a tree and handed them a generic AA battery. The knight fixed the rocket with duct tape, and everyone flew into deep space together. They stopped at an intergalactic space diner to eat pepperoni pizza and left the cat to pay the bill. The end!   ![alien](img/alien.png)
+10. **The Ending:** An alien popped out from behind a tree, handed them a spare battery for their gear, and everyone took the rocket to a space diner for late-night pepperoni pizza. The end! 🍕✨![alien](img/alien.png)
