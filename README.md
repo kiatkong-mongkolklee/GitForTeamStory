@@ -41,10 +41,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 The knight challenged him to a duel ![knight](img/knight.png), but the pirate slipped on a banana peel and knocked himself out before the fight even began.
 
-7. The massive self-destruct explosion accidentally launched everyone into the sky like a rocket! Everyone screamed as they flew through the air. At the same time, their stolen time machine malfunctioned and started smoking. Suddenly, a bright flash of light appeared, and everyone was transported to a mysterious place! 
-
-
-. 
+7. The massive self-destruct explosion accidentally launched everyone into the sky like a rocket! Everyone screamed as they flew through the air. [rocket](/img/rocket.png)At the same time, their stolen time machine malfunctioned and started smoking. Suddenly, a bright flash of light appeared, and everyone was transported to a mysterious place!. 
 
 8. Just when everyone thought they were doomed, a cat appeared inside the rocket.![cat](/img/cat.png)
  Everyone was confused because nobody had invited it.
