@@ -46,4 +46,5 @@ An enormous ogre appeared and demanded half of the treasure as a landing fee. [o
 The detective solved the problem by offering the ogre a sandwich instead.[detective](/img/detective.png) 
 The ogre accepted immediately because he had skipped breakfast.
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. The Ending: An alien popped out from behind a tree, handed them a spare battery, and everyone took the rocket to a space diner for pizza. The end!
+   ![alien](alien.png)
