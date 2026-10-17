@@ -33,7 +33,12 @@ The knight challenged him to a duel [knight](/img/knight.png), but the pirate sl
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. Just when everyone thought they were doomed, a cat appeared inside the rocket.[cat](/img/cat.png)
+ Everyone was confused because nobody had invited it.
+
+The cat pressed a mysterious button with its paw, and the rocket suddenly started working again.[rocket](/img/rocket.png)
+
+"Meow," said the cat. Apparently, it was the smartest member of the team all along.[cat](/img/cat.png)
 
 9. The rocket landed in a mysterious forest, [rocket](/img/rocket.png)
 where the team met a friendly ghost guarding a treasure chest. [ghost](/img/ghost.png)
