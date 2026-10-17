@@ -23,8 +23,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. The knight followed the map into a dark forest. [knight](/img/knight.png)
+ The map had a big X, [map](/img/map.png)
+ a strange path, and absolutely no explanation. Luckily, a detective appeared and offered to help solve the mystery. [detective](/img/detective.png)  
 
 6. Suddenly, a pirate jumped out from behind a tree. "Hand over that map!" he shouted. [pirate](/img/pirate.png)[map](/img/map.png) 
  He wanted the treasure so badly that he had forgotten how to read a map.
