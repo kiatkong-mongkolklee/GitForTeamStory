@@ -30,7 +30,11 @@ The knight challenged him to a duel [knight](/img/knight.png), but the pirate sl
 
 8. The cat was supposed to talk here, but the line is missing.  
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. The rocket landed in a mysterious forest, [rocket](/img/rocket.png)
+where the team met a friendly ghost guarding a treasure chest. [ghost](/img/ghost.png)
+ An enormous ogre appeared and demanded half of the treasure as a landing fee. [orge](/img/ogre.png)
+
+The detective solved the problem by offering the ogre a sandwich instead.[detective](/img/detective.png) 
+The ogre accepted immediately because he had skipped breakfast.
 
 10. The ending… well, we don’t really have one. Please fix this.
