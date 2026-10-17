@@ -55,5 +55,4 @@ An enormous ogre appeared and demanded half of the treasure as a landing fee. ![
 The detective solved the problem by offering the ogre a sandwich instead.![detective](/img/detective.png) 
 The ogre accepted immediately because he had skipped breakfast.
 
-10. The Ending: An alien popped out from behind a tree and gave them a spare battery. The knight fixed the rocket, and everyone flew into space together. They stopped at a space diner to eat pizza and returned home happily. The end! 
-   ![alien](img/alien.png)
+10. The Ending: A green alien popped out from behind a tree and handed them a generic AA battery. The knight fixed the rocket with duct tape, and everyone flew into deep space together. They stopped at an intergalactic space diner to eat pepperoni pizza and left the cat to pay the bill. The end!   ![alien](img/alien.png)
