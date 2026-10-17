@@ -52,7 +52,7 @@ The cat pressed a mysterious button with its paw, and the rocket engine suddenly
 
 9. The rocket landed in a mysterious forest, ![rocket landing](img/rocket.png)
 where the team met a friendly ghost guarding a treasure chest. ![ghost](img/ghost.png)
-An enormous ogre appeared and demanded half of the treasure as a landing fee. ![orge](img/ogre.png)
+An enormous ogre appeared and demanded half of the treasure as a landing fee. ![ogre](img/ogre.png)
 The detective solved the problem by offering the ogre a sandwich instead.![detective](img/detective.png) 
 The ogre accepted immediately because he had skipped breakfast and was dangerously hangry.
 
