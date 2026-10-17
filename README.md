@@ -10,8 +10,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 1. Once upon a time, there was a **castle**.  
    ![castle](img1.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. Suddenly, a ferocious dragon appeared! But as it breathed fire, a hatch opened on its chest revealing a confused knight operating levers inside. It was a giant mecha-dragon!
    ![dragon](dragon.png)
 
 3. The scientist shouted something very important but nobody wrote it down.  
