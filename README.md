@@ -47,4 +47,4 @@ The detective solved the problem by offering the ogre a sandwich instead.[detect
 The ogre accepted immediately because he had skipped breakfast.
 
 10. The Ending: An alien popped out from behind a tree, handed them a spare battery, and everyone took the rocket to a space diner for pizza. The end!
-   ![alien](alien.png)
+   ![alien](alien.png)  
